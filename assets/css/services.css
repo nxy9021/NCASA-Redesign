@@ -153,7 +153,38 @@ footer p{
         column-count: 1;
     }
 
+    .top-section-container{
+        position: relative;
+        padding-top: 2px;
+        width:100%;
+        display: inline-block;
+        text-align: center;
+        font-family: Open Sans;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    body{
+        background-attachment: fixed;
+        font-family: Open Sans;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    
+
+    .page-title {
+        font-family: Lato;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
     .full-page-card{
         padding: 0 60px;
+    }
+
+    #social-media-and-logo-container h2{
+        font-family: 'Lato-black';
+        font-size: 40px;
     }
 }

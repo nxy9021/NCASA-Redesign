@@ -170,11 +170,11 @@ section{
     }
 
     .navlist a {
-        color: white;
+        color: #FFFFFF;
         position: relative;
         font-family: Lato;
         font-weight: normal;
-        font-size: 42px;
+        font-size: 24px;
         text-decoration: none;
         margin-top: calc(9vh);
         display: block;
@@ -183,11 +183,10 @@ section{
     }
     
     .navlist a.active{
-        color: white;
+        color: #FFFFFF;
         position: relative;
-        font-family: Lato;
-        font-size: 42px;
-        font-weight: bolder;
+        font-family: Lato-black;
+        font-size: 24px;
         text-decoration: underline;
         margin-top: calc(9vh);
         display: block;
@@ -196,7 +195,7 @@ section{
     }
 
     .navlist a:hover {
-        color: white;
+        color: #FFFFFF;
         border-bottom: none;
     }
 
@@ -216,7 +215,7 @@ section{
         border-top-right-radius: 50px;
         border-bottom-left-radius: 50px;
         border-bottom-right-radius: 50px;
-        border-color: white;
+        border-color: #FFFFFF;
     }
     .navlist #donate-link:hover {
         border: solid 3px;
@@ -229,7 +228,7 @@ section{
         border-top-right-radius: 50px;
         border-bottom-left-radius: 50px;
         border-bottom-right-radius: 50px;
-        border-color: white;
+        border-color: #FFFFFF;
     }
 
     #social-media-grid-wrapper{

@@ -47,7 +47,7 @@
 
 #medically-information-container{
     grid-row-start: 1;
-    background: url(../images/bgMedicallyBg.png) no-repeat center center;
+    background: url(../images/medically-bg.png) no-repeat center center;
     background-size: cover;
     background-color: rgba(255, 250, 246, 0.6);
 }
@@ -167,6 +167,13 @@ footer p{
         grid-template-columns: 100% 0%;
         justify-content: stretch;
     }
+
+
+    h2{
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: bold;
+}
 
     #emotionally-information-container{
         position: relative;
